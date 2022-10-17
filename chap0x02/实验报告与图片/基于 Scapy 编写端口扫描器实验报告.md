@@ -298,7 +298,7 @@ sudo tshark -r tcp-cnt-2.pcap -Y "tcp or udp or icmp"
 
 attacker端
 
-![TCP Xmas scan A3](TCPXmasscanA3 .png)
+![TCPXmas scan A3](TCPXmasscanA3.png)
 
 victim代码
 
